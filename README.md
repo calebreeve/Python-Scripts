@@ -1,2 +1,2 @@
-# Python-Scripts
-Python Scripts that have become my favorite go to for field related tasks
+# Creating my own python scripts to automate various tasks
+# Feel free to edit them
