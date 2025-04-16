@@ -49,7 +49,7 @@ file_types = {
 }
 
 ### list downloads folder ###
-downloads_Path = os.listdir("C:\\Users\\caleb\\Downloads")
+downloads_Path = os.listdir("path_to_downloads_folder")
 
 ### file sorting function ###
 
